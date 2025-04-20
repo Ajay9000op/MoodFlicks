@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoodFlix - Movie Recommendations</title>
+    <link rel="stylesheet" href="./Style.css">
+    <style>
+ 
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container" id="header">
+            <h1>Debba Debba</h1>
+            <h2 class="tagline" data-i18n="tagline" style="color: rgb(125, 36, 208);">Find the perfect movie for your mood</h2> 
+            <div class="language-selector">
+                <button class="language-btn active" data-lang="en">EN</button>
+                <button class="language-btn" data-lang="es">ES</button>
+                <button class="language-btn" data-lang="fr">FR</button>
+                <button class="language-btn" data-lang="de">DE</button>
+                <button class="language-btn" data-lang="jp">JP</button>
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="mood-selector">
+            <button class="mood-btn" data-mood="happy" data-i18n="happy">Happy</button>
+            <button class="mood-btn" data-mood="sad" data-i18n="sad">Sad</button>
+            <button class="mood-btn" data-mood="excited" data-i18n="excited">Excited</button>
+            <button class="mood-btn" data-mood="relaxed" data-i18n="relaxed">Relaxed</button>
+            <button class="mood-btn" data-mood="romantic" data-i18n="romantic">Romantic</button>
+            <button class="mood-btn" data-mood="scared" data-i18n="scared">Scared</button>
+            <button class="mood-btn" data-mood="thriller" data-i18n="thriller">Thriller</button>
+            <button class="mood-btn" data-mood="horror" data-i18n="horror">Horror</button>
+            <button class="mood-btn" data-mood="thoughtful" data-i18n="thoughtful">Thoughtful</button>
+            <button class="mood-btn" data-mood="nostalgic" data-i18n="nostalgic">Nostalgic</button>
+            <!-- <button class="mood-btn" data-mood="all" data-i18n="allmovies">All Movies</button> -->
+        </div>
+        
+        <div class="movie-language-filters">
+            <div class="filter-title" data-i18n="movie-language">Movie Language</div>
+            <button class="movie-language-filter active" data-language="all" data-i18n="all-languages">All Languages</button>
+            <button class="movie-language-filter" data-language="english" data-i18n="english">English</button>
+            <button class="movie-language-filter" data-language="hindi" data-i18n="hindi">Hindi</button>
+            <button class="movie-language-filter" data-language="telugu" data-i18n="telugu">Telugu</button>
+            <button class="movie-language-filter" data-language="tamil" data-i18n="tamil">Tamil</button>
+        </div>
+        
+        <div class="results" id="results">
+            <h2><span data-i18n="movies-for">Movies for when you're feeling:</span> <span id="selected-mood" data-i18n-dynamic="mood">happy</span></h2>
+            <div class="movie-grid" id="movie-grid">
+                <!-- Movies will be inserted here by JavaScript -->
+            </div>
+            <div class="no-results" id="no-results" data-i18n="no-results">
+                No movies found matching your mood and language selection. Try changing your filters.
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <div class="container">
+            <p data-i18n="copyright">&copy; 2025 MoodFlix - Your personal mood-based movie recommender</p>
+        </div>
+    </footer>
+
+<script src="./Script.js"></script>
+</body>
+</html>
+        
+        

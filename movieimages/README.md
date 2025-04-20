@@ -1,0 +1,104 @@
+This directory is intended to contain movie poster images for the MoodFlix app.
+Please add the following poster images with the exact filenames as referenced in Script.js:
+
+- The Intouchables.jpeg
+- Sing Street.jpeg
+- Little Miss Sunshine.jpg
+- School of Rock.jpeg
+- 3 Idiots.jpeg
+- Chennai Express.jpeg
+- F2.jpeg
+- Maharshi.jpeg
+- Comali.jpeg
+- Kathi.jpeg
+- The Pursuit of Happyness.jpg
+- Manchester by the Sea.jpeg
+- Marriage Story.jpeg
+- Blue Valentine.jpeg
+- Taare Zameen Par.jpeg
+- My Name Is Khan.jpeg
+- Jersey.jpeg
+- Mahanati.jpeg
+- 96.jpeg
+- Vaaranam Aayiram.jpeg
+- Mad Max.jpeg
+- Mission Impossible - Fallout.jpg
+- Baby Driver.jpeg
+- Spider-Man Into the Spider-Verse.jpeg
+- War.jpeg
+- Dhoom 3.jpeg
+- Saaho.jpeg
+- Baahubali The Beginning.jpg
+- Sarkar.jpeg
+- Mersal.jpeg
+- The Secret Life of Walter Mitty.jpeg
+- chef.jpg
+- About Time.jpg
+- The Grand Budapest Hotel.jpeg
+- zndmd.jpeg
+- karwaan.jpg
+- mahanubhavudu.jpg
+- sammohanam.jpg
+- oh-my-kadavule.jpg
+- kaathale-kaathale.jpg
+- notebook.jpg
+- la-la-land.jpg
+- eternal-sunshine.jpg
+- before-sunrise.jpg
+- jab-we-met.jpg
+- Yeh Jawaani Hai Deewani.jpg
+- fidaa.jpg
+- geetha-govindam.jpg
+- vinnaithaandi.jpg
+- ok-kanmani.jpg
+- get-out.jpg
+- The Silence of the Lambs.jpg
+- hereditary.jpg
+- the-shining.jpg
+- stree.jpg
+- bhoot.jpg
+- gruham.jpg
+- arundhati.jpg
+- pizza.jpg
+- demonte-colony.jpg
+- prisoners.jpg
+- gone-girl.jpg
+- nightcrawler.jpg
+- shutter-island.jpg
+- drishyam.jpg
+- andhadhun.jpg
+- kshanam.jpg
+- hit.jpg
+- ratsasan.jpg
+- visaranai.jpg
+- the-witch.jpeg
+- it-follows.jpeg
+- babadook.jpeg
+- tumbbad.jpg
+- pari.jpg
+- avunu.jpg
+- raju-gari-gadhi.jpg
+- maya.jpg
+- pisaasu.jpg
+- interstellar.jpg
+- inception.jpg
+- tree-of-life.jpg
+- cloud-atlas.jpg
+- ship-of-theseus.jpg
+- masaan.jpg
+- kancharapalem.jpg
+- rangasthalam.jpg
+- super-deluxe.jpg
+- aruvi.jpg
+- breakfast-club.jpg
+- stand-by-me.jpg
+- Forrest Gump.jpg
+- dead-poets.jpg
+- dil-chahta-hai.jpg
+- lakshya.jpg
+- bommarillu.jpg
+- godavari.jpg
+- autograph.jpg
+- vaaranam-aayiram.jpg
+
+Please add the corresponding image files to this directory to enable proper display of movie posters in the MoodFlix app.

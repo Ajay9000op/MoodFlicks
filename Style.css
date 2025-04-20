@@ -1,0 +1,269 @@
+:root {
+    --primary: #8e44ad;
+    --primary-light: #9b59b6;
+    --secondary: #3498db;
+    --dark: #2c3e50;
+    --light: #ecf0f1;
+    --success: #2ecc71;
+    --warning: #f39c12;
+    --danger: #e74c3c;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: var(--dark);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+   /* background-image:url("../Amazon/imagess/asram.jpg"); */
+   text-decoration: #2ecc71;
+}
+#header {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+   background-image:url("./movieimages/headerimg.png");
+}
+
+header {
+    background-color: var(--primary);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.tagline {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.language-selector {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.language-btn {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.language-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.language-btn.active {
+    background-color: white;
+    color: var(--primary);
+}
+
+.mood-selector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.mood-btn {
+    background-color: white;
+    border: 2px solid var(--primary);
+    border-radius: 30px;
+    padding: 12px 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: var(--primary);
+}
+
+.mood-btn:hover {
+    background-color: var(--primary-light);
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.mood-btn.active {
+    background-color: var(--primary);
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.movie-language-filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+    padding: 15px;
+    background-color: rgba(142, 68, 173, 0.1);
+    border-radius: 10px;
+}
+
+.movie-language-filter {
+    background-color: white;
+    border: 1px solid var(--primary);
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: var(--primary);
+}
+
+.movie-language-filter:hover {
+    background-color: var(--primary-light);
+    color: white;
+}
+
+.movie-language-filter.active {
+    background-color: var(--primary);
+    color: white;
+}
+
+.filter-title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    color: var(--primary);
+    font-weight: bold;
+}
+
+.results {
+    margin-top: 30px;
+    display: none;
+}
+
+.results h2 {
+    text-align: center;
+    color: var(--primary);
+    margin-bottom: 20px;
+}
+
+.movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.movie-card {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    position: relative;
+}
+
+.movie-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.movie-language-tag {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--primary);
+    color: white;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.movie-poster {
+    width: 100%;
+    height: 280px;
+    background-color: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #777;
+    position: relative;
+}
+
+.movie-poster img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.movie-info {
+    padding: 15px;
+}
+
+.movie-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+
+.movie-year {
+    color: #777;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.movie-desc {
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: var(--dark);
+    color: var(--light);
+}
+
+.no-results {
+    text-align: center;
+    padding: 30px;
+    font-style: italic;
+    color: #777;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .language-selector {
+        position: static;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    .mood-selector {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .mood-btn {
+        width: 80%;
+    }
+    
+    .movie-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+}
