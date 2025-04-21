@@ -106,7 +106,12 @@
                 { title: "Co Kancharapalem", year: 2018, language: "telugu", poster: "Co Kancharapalem.jpeg", description: "Four love stories across age groups and how societal pressures and prejudices impact them." },
                 { title: "Rangasthalam", year: 2018, language: "telugu", poster: "rangasthalam.jpg", description: "A hearing-impaired man confronts a corrupt system in his village." },
                 { title: "Super Deluxe", year: 2019, language: "tamil", poster: "Super Deluxe.jpeg", description: "An anthology film exploring the interconnected stories of various characters dealing with morality, identity, and fate." },
-                { title: "Aruvi", year: 2017, language: "tamil", poster: "aruvi.jpg", description: "A social drama about a young woman's journey through societal pressures, consumer culture, and a desire for rebellion." }
+                { title: "Aruvi", year: 2017, language: "tamil", poster: "aruvi.jpg", description: "A social drama about a young woman's journey through societal pressures, consumer culture, and a desire for rebellion." },
+                { title: "The Pursuit of Happyness", year: 2006, language: "english", poster: "The Pursuit of Happyness.jpg", description: "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career." },
+                { title: "Chakdey India", year: 2023, language: "hindi", poster: "Chakdey India.jpeg", description: "A motivational sports drama about an underdog hockey team overcoming challenges to win the championship." },
+                { title: "Aankhen", year: 2002, language: "hindi", poster: "Aankhen.jpeg", description: "A blind man seeks revenge against those who wronged him, using three blind men to help him execute his plan." },
+                { title: "Koi Mil Gaya", year: 2003, language: "hindi", poster: "Koi Mil Gaya.jpeg", description: "A developmentally delayed young man encounters an extraterrestrial being." }
+             
             ],
             nostalgic: [
                 { title: "The Breakfast Club", year: 1985, language: "english", poster: "The Breakfast Club.jpeg", description: "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought." },
