@@ -564,13 +564,19 @@ function filterAndDisplayMovies() {
             // Clear current movies
             movieGrid.innerHTML = '';
             
-            if (!movieDatabase[mood]) {
+            let movies = [];
+            if (mood === 'all') {
+                // Aggregate all movies from all moods
+                for (const key in movieDatabase) {
+                    movies = movies.concat(movieDatabase[key]);
+                }
+            } else if (!movieDatabase[mood]) {
                 noResultsMessage.style.display = 'block';
                 return;
+            } else {
+                movies = movieDatabase[mood];
             }
             
-            // Filter movies by language if needed
-            let movies = movieDatabase[mood];
             if (language !== 'all') {
                 movies = movies.filter(movie => movie.language === language);
             }
