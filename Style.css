@@ -267,3 +267,32 @@ footer {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
 }
+.search-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.search-container input {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    width: 80%;
+    max-width: 500px;
+    font-size: 16px;
+}
+
+.search-container button {
+    padding: 10px 15px;
+    margin-left: 10px;
+    background-color: rgb(125, 36, 208);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.search-container button:hover {
+    background-color: rgb(95, 16, 168);
+}
