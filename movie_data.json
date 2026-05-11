@@ -1,0 +1,2026 @@
+[
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "language": "english",
+    "poster": "The Intouchables.jpeg",
+    "description": "A heartwarming comedy-drama about the unlikely friendship between a wealthy quadriplegic and his caregiver. This film explores themes of friendship, trust, and overcoming adversity with humor and heart. ★★★★½ (8.5/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Sing Street",
+    "year": 2016,
+    "language": "english",
+    "poster": "Sing Street.jpeg",
+    "description": "A boy starting a band to impress a girl in 1980s Dublin, filled with great music and charm. The movie captures the spirit of youth, creativity, and the power of music to change lives. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "language": "english",
+    "poster": "Little Miss Sunshine.jpg",
+    "description": "A dysfunctional family's cross-country road trip to a beauty pageant becomes a journey of self-discovery. It highlights the importance of family, perseverance, and embracing imperfections. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "School of Rock",
+    "year": 2003,
+    "language": "english",
+    "poster": "School of Rock.jpeg",
+    "description": "A failed rock star poses as a substitute teacher and turns his class into a rock band. This comedy celebrates passion, music, and the joy of teaching in unconventional ways. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "language": "hindi",
+    "poster": "3 Idiots.jpeg",
+    "description": "Two friends search for their long lost companion who inspired them to think differently, even as the rest of the world called them 'idiots'. The film critiques the education system and encourages following one's passion. ★★★★★ (8.4/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Chennai Express",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "Chennai Express.jpeg",
+    "description": "A man traveling to scatter his father's ashes finds himself on a journey filled with love and adventure. The movie blends action, comedy, and romance in a vibrant setting. ★★★½☆ (6.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "F2: Fun and Frustration",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "F2.jpeg",
+    "description": "A comedy about two men who are frustrated with their wives' behavior and decide to teach them a lesson. It explores relationships and misunderstandings with humor. ★★★☆☆ (6.7/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Maharshi",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Maharshi.jpeg",
+    "description": "A successful businessman returns to India and gets involved in helping farmers save their lands. The film highlights social responsibility and the importance of giving back. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Comali",
+    "year": 2019,
+    "language": "tamil",
+    "poster": "Comali.jpeg",
+    "description": "A man who wakes up from a coma after 16 years tries to adapt to modern life with humorous results. It explores change, technology, and human connections. ★★★½☆ (6.9/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Kathi",
+    "year": 2014,
+    "language": "tamil",
+    "poster": "Kathi.jpeg",
+    "description": "A reformed criminal takes on a corrupt businessman who has harmed many people in society. The movie deals with justice, redemption, and courage. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "language": "english",
+    "poster": "Up.jpeg",
+    "description": "An elderly widower embarks on an adventure to fulfill his late wife's dream, accompanied by a young wilderness explorer. This heartwarming film balances humor and emotion with stunning animation. ★★★★★ (8.2/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "language": "english",
+    "poster": "The Truman Show.jpeg",
+    "description": "A man discovers his entire life has been a reality TV show. This thought-provoking comedy explores themes of authenticity, freedom, and the human spirit with both humor and depth. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Paddington",
+    "year": 2014,
+    "language": "english",
+    "poster": "Paddington.jpeg",
+    "description": "A young bear travels to London in search of a home, finding friendship with a kind family. This charming film celebrates kindness, acceptance, and found family with gentle humor. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "language": "english",
+    "poster": "Good Will Hunting.jpeg",
+    "description": "A janitor at MIT with a gift for mathematics works through his past trauma with the help of a therapist. This inspiring drama showcases the transformative power of connection and understanding. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "language": "french",
+    "poster": "Amelie.jpeg",
+    "description": "A whimsical young woman secretly improves the lives of those around her. This visually stunning film celebrates imagination, small pleasures, and the joy of making others happy. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Munna Bhai M.B.B.S.",
+    "year": 2003,
+    "language": "hindi",
+    "poster": "Munna Bhai MBBS.jpeg",
+    "description": "A gangster poses as a doctor to fulfill his father's dream, bringing unconventional methods to patient care. This comedy highlights the importance of empathy in healing. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "PK",
+    "year": 2014,
+    "language": "hindi",
+    "poster": "PK.jpeg",
+    "description": "An alien stranded on Earth questions religious practices while searching for his lost communication device. This satirical comedy explores faith and humanity with humor and heart. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Barfi!",
+    "year": 2012,
+    "language": "hindi",
+    "poster": "Barfi.jpeg",
+    "description": "A deaf and mute man's life changes when he meets an autistic woman. This heartwarming film shows how love transcends communication barriers with delightful charm. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Fidaa",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Fidaa.jpeg",
+    "description": "An NRI falls for a village girl with strong opinions and values. This romantic comedy celebrates rural life and independent women with humor and warmth. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Oopiri",
+    "year": 2016,
+    "language": "telugu",
+    "poster": "Oopiri.jpeg",
+    "description": "A wealthy quadriplegic hires a carefree young man as his caretaker, changing both their lives. This remake of 'The Intouchables' explores friendship across socioeconomic divides. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Majili",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Majili.jpeg",
+    "description": "A failed cricketer finds purpose through his wife's unwavering love. This emotional drama shows the healing power of unconditional support and second chances. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Kaththi",
+    "year": 2014,
+    "language": "tamil",
+    "poster": "Kaththi.jpeg",
+    "description": "An escaped prisoner impersonates a lookalike and becomes a voice for oppressed farmers. This action film balances social messaging with entertaining sequences. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Pelli Choopulu",
+    "year": 2016,
+    "language": "telugu",
+    "poster": "Pelli Choopulu.jpeg",
+    "description": "Two young people with different ambitions meet during a matchmaking event and find common ground. This realistic romantic comedy celebrates entrepreneurship and following one's passion. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "VIP",
+    "year": 2014,
+    "language": "tamil",
+    "poster": "VIP.jpeg",
+    "description": "An unemployed graduate fights against corruption while supporting his family. This inspirational story resonates with the struggles of educated unemployed youth. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "Manam",
+    "year": 2014,
+    "language": "telugu",
+    "poster": "Manam.jpeg",
+    "description": "Three generations of a family connect across lifetimes in this fantasy drama. The film explores the concept of reincarnation with humor, emotion, and heart. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "happy"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "language": "english",
+    "poster": "The Pursuit of Happyness.jpg",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career. This inspiring true story highlights perseverance and hope. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Manchester by the Sea",
+    "year": 2016,
+    "language": "english",
+    "poster": "Manchester by the Sea.jpeg",
+    "description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies. The film explores grief, family, and healing. ★★★★½ (7.8/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Marriage Story",
+    "year": 2019,
+    "language": "english",
+    "poster": "Marriage Story.jpeg",
+    "description": "A stage director and his actor wife struggle through a grueling, coast-to-coast divorce. It offers a raw and emotional look at relationships and separation. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Blue Valentine",
+    "year": 2010,
+    "language": "english",
+    "poster": "Blue Valentine.jpeg",
+    "description": "The relationship of a contemporary married couple, charting their evolution over a span of years. The movie portrays love, loss, and the complexities of marriage. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "language": "hindi",
+    "poster": "Taare Zameen Par.jpeg",
+    "description": "A teacher helps a young boy with dyslexia overcome his disability and pursue his dreams. The film emphasizes understanding and support for learning differences. ★★★★★ (8.4/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "My Name Is Khan",
+    "year": 2010,
+    "language": "hindi",
+    "poster": "My Name Is Khan.jpeg",
+    "description": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States. It addresses themes of tolerance, love, and resilience. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Jersey",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Jersey.jpeg",
+    "description": "A failed cricketer decides to return to cricket in his late thirties driven by the desire to represent his son. The movie is about redemption, passion, and family. ★★★★★ (8.5/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Mahanati",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "Mahanati.jpeg",
+    "description": "The life story of legendary South Indian actress Savitri, from her rise to stardom to her tragic downfall. It is a biographical drama about fame and sacrifice. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "96",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "96.jpeg",
+    "description": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past. The film explores nostalgia, love, and memories. ★★★★★ (8.6/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Vaaranam Aayiram",
+    "year": 2008,
+    "language": "tamil",
+    "poster": "Vaaranam Aayiram.jpeg",
+    "description": "A grieving son recounts the story of his father's life and how it influenced his own journey. It is a touching story about family and legacy. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "language": "english",
+    "poster": "Schindlers List.jpeg",
+    "description": "A German businessman saves over a thousand Polish-Jewish refugees during the Holocaust. This powerful historical drama depicts both the depths of human cruelty and the heights of compassion. ★★★★★ (8.9/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "language": "english",
+    "poster": "The Green Mile.jpeg",
+    "description": "A death row corrections officer discovers that one of his inmates possesses a miraculous healing gift. This emotional drama explores injustice, faith, and the supernatural. ★★★★★ (8.6/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "The Boy in the Striped Pajamas",
+    "year": 2008,
+    "language": "english",
+    "poster": "The Boy in the Striped Pajamas.jpeg",
+    "description": "The innocent friendship between a German boy and a Jewish concentration camp prisoner demonstrates the horror of the Holocaust through a child's perspective. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "language": "japanese",
+    "poster": "Grave of the Fireflies.jpeg",
+    "description": "Two siblings struggle to survive in Japan during World War II after their mother is killed in an air raid. This animated masterpiece portrays the devastating impact of war on innocent lives. ★★★★★ (8.5/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Never Let Me Go",
+    "year": 2010,
+    "language": "english",
+    "poster": "Never Let Me Go.jpeg",
+    "description": "Friends at a mysterious boarding school discover the dark truth about their existence and purpose. This dystopian drama explores love, loss, and what it means to be human. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Black",
+    "year": 2005,
+    "language": "hindi",
+    "poster": "Black.jpeg",
+    "description": "A teacher helps a blind and deaf girl overcome her disabilities and darkness. This powerful drama showcases the triumph of the human spirit over seemingly insurmountable challenges. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Naal",
+    "year": 2018,
+    "language": "marathi",
+    "poster": "Naal.jpeg",
+    "description": "A young boy discovers he was adopted and sets out to find his biological mother. This poignant film explores identity, belonging, and the meaning of family through a child's eyes. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Udaan",
+    "year": 2010,
+    "language": "hindi",
+    "poster": "Udaan.jpeg",
+    "description": "A teenager returns home after being expelled from boarding school to face his abusive father and his dreams of becoming a writer. This coming-of-age drama portrays the struggle for independence. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Arjun Reddy",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Arjun Reddy.jpeg",
+    "description": "A brilliant but self-destructive surgeon spirals into alcohol and drug addiction after the love of his life marries another man. This intense character study explores grief and toxic masculinity. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Athadu",
+    "year": 2005,
+    "language": "telugu",
+    "poster": "Athadu.jpeg",
+    "description": "A professional assassin on the run finds redemption when he's mistaken for the long-lost son of a family. This action drama examines loneliness, identity, and second chances. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Dasharatham",
+    "year": 1989,
+    "language": "malayalam",
+    "poster": "Dasharatham.jpeg",
+    "description": "A wealthy alcoholic agrees to be a sperm donor but later fights for custody when he develops paternal feelings. This emotional drama explores unconventional parenthood. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Pariyerum Perumal",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "Pariyerum Perumal.jpeg",
+    "description": "A law student from a marginalized community faces discrimination and violence while pursuing education. This powerful social drama addresses caste prejudice in contemporary India. ★★★★★ (8.6/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Kakka Muttai",
+    "year": 2014,
+    "language": "tamil",
+    "poster": "Kakka Muttai.jpeg",
+    "description": "Two slum children desire to taste pizza after seeing a television commercial. This bittersweet tale highlights socioeconomic disparities through the innocent eyes of children. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Anand",
+    "year": 1971,
+    "language": "hindi",
+    "poster": "Anand.jpeg",
+    "description": "A terminally ill man lives life to the fullest and spreads joy to those around him. This classic film celebrates embracing life and finding meaning in the face of death. ★★★★★ (8.2/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Anbe Sivam",
+    "year": 2003,
+    "language": "tamil",
+    "poster": "Anbe Sivam.jpeg",
+    "description": "Two strangers with opposing worldviews form an unlikely bond during a difficult journey. This philosophical drama explores humanity, compassion, and tolerance through humor and emotion. ★★★★★ (8.7/10 IMDb)",
+    "mood": "sad"
+  },
+  {
+    "title": "Mad Max Fury Road",
+    "year": 2015,
+    "language": "english",
+    "poster": "Mad Max Fury Road.jpeg",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler with the help of a group of female prisoners. ★★★★★ (8.1/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "language": "english",
+    "poster": "Mission Impossible - Fallout.jpg",
+    "description": "Ethan Hunt and his team race against time after a mission gone wrong. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Baby Driver",
+    "year": 2017,
+    "language": "english",
+    "poster": "Baby Driver.jpeg",
+    "description": "A talented getaway driver relies on the beat of his personal soundtrack to be the best. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "language": "english",
+    "poster": "Spider-Man Into the Spider-Verse.jpeg",
+    "description": "Teen Miles Morales becomes Spider-Man and joins other Spider-People from various dimensions. ★★★★★ (8.4/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "War",
+    "year": 2019,
+    "language": "hindi",
+    "poster": "War.jpeg",
+    "description": "An Indian soldier is assigned to eliminate his former mentor who has gone rogue. ★★★★☆ (6.5/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Dhoom 3",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "Dhoom 3.jpeg",
+    "description": "A circus owner seeks revenge against a bank that caused his father's suicide. ★★★☆☆ (5.4/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Saaho",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Saaho.jpeg",
+    "description": "An undercover cop becomes embroiled in a major crime syndicate's feuds. ★★★☆☆ (5.2/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Baahubali The Beginning",
+    "year": 2015,
+    "language": "telugu",
+    "poster": "Baahubali The Beginning.jpeg",
+    "description": "A young man embarks on a journey to avenge his father's death and reclaim his kingdom. ★★★★★ (8.1/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Sarkar",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "Sarkar.jpeg",
+    "description": "A corporate businessman returns to India to vote but finds someone has already voted in his name. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Mersal",
+    "year": 2017,
+    "language": "tamil",
+    "poster": "Mersal.jpeg",
+    "description": "A magician and a doctor take revenge on the medical mafia for their family's tragic past. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "language": "english",
+    "poster": "The Dark Knight.jpeg",
+    "description": "Batman faces his greatest challenge when the Joker wreaks havoc on Gotham City. This intense superhero film redefined the genre with its gritty realism and moral complexity. ★★★★★ (9.0/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "language": "english",
+    "poster": "Avengers Endgame.jpeg",
+    "description": "The Avengers assemble one last time to reverse the damage caused by Thanos. This epic conclusion to the Infinity Saga delivers spectacular action sequences and emotional payoffs. ★★★★☆ (8.4/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "John Wick",
+    "year": 2014,
+    "language": "english",
+    "poster": "John Wick.jpeg",
+    "description": "A retired hitman seeks vengeance against the gangsters who took everything from him. This stylish action thriller features innovative fight choreography and worldbuilding. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "language": "english",
+    "poster": "The Matrix.jpeg",
+    "description": "A computer hacker learns the truth about reality and his role in the war against its controllers. This groundbreaking sci-fi action film revolutionized visual effects and action sequences. ★★★★★ (8.7/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "language": "english",
+    "poster": "Inception.jpeg",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea. This mind-bending action thriller combines spectacle with intellectual puzzle-solving. ★★★★★ (8.8/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Pathaan",
+    "year": 2023,
+    "language": "hindi",
+    "poster": "Pathaan.jpeg",
+    "description": "A spy returns from exile to stop a terrorist group planning an attack on India. This high-octane action thriller features spectacular stunts and international locations. ★★★★☆ (6.0/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Don",
+    "year": 2006,
+    "language": "hindi",
+    "poster": "Don.jpeg",
+    "description": "A remake of the 1978 classic, this film follows a mysterious criminal mastermind who outsmarts law enforcement. This sleek action thriller features stylish sequences and clever twists. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Race",
+    "year": 2008,
+    "language": "hindi",
+    "poster": "Race.jpeg",
+    "description": "Two brothers become rivals in a high-stakes game of power and deception. This slick thriller offers non-stop twists, betrayals, and adrenaline-pumping action. ★★★☆☆ (6.7/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Baahubali 2.jpeg",
+    "description": "The second installment reveals why Kattappa killed Baahubali in this epic saga of power, revenge, and justice. This spectacular film features grand battle sequences and emotional drama. ★★★★★ (8.2/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "RRR",
+    "year": 2022,
+    "language": "telugu",
+    "poster": "RRR.jpeg",
+    "description": "Two legendary revolutionaries journey away from home before fighting for their country in the 1920s. This epic action drama features spectacular set pieces and powerful performances. ★★★★★ (7.9/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "language": "telugu",
+    "poster": "Pushpa.jpeg",
+    "description": "A laborer rises through the ranks of a red sandalwood smuggling syndicate. This gritty action film portrays the rise of an underdog against a corrupt system. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Vikram",
+    "year": 2022,
+    "language": "tamil",
+    "poster": "Vikram.jpeg",
+    "description": "A special agent investigates a series of murders of police officers with possible links to a masked vigilante group. This high-octane action thriller features elaborate set pieces. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Master",
+    "year": 2021,
+    "language": "tamil",
+    "poster": "Master.jpeg",
+    "description": "An alcoholic professor is sent to a juvenile school where he clashes with a gangster who uses the school's children for criminal activities. This action-packed film addresses social issues. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "Thani Oruvan",
+    "year": 2015,
+    "language": "tamil",
+    "poster": "Thani Oruvan.jpeg",
+    "description": "An idealistic police officer takes on a brilliant and ruthless businessman operating above the law. This cat-and-mouse thriller explores the battle between good and evil. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "KGF: Chapter 1",
+    "year": 2018,
+    "language": "kannada",
+    "poster": "KGF.jpeg",
+    "description": "A man with a troubled past rises to become a feared gangster in the gold mining fields of Kolar. This stylish period action film follows an underdog's rise to power. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "excited"
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "language": "english",
+    "poster": "The Secret Life of Walter Mitty.jpeg",
+    "description": "When his job along with that of his co-worker are threatened, Walter takes action in a global journey that turns into an adventure more extraordinary than anything he could have imagined. ★★★½☆ (7.3/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Chef",
+    "year": 2014,
+    "language": "english",
+    "poster": "chef.jpg",
+    "description": "A chef who loses his restaurant job starts up a food truck to reclaim his creative freedom and reconnect with his family. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "About Time",
+    "year": 2013,
+    "language": "english",
+    "poster": "About Time.jpeg",
+    "description": "A young man with the ability to time travel tries to change his past to improve his future, discovering that finding true love is the most important goal of all. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "language": "english",
+    "poster": "The Grand Budapest Hotel.jpeg",
+    "description": "A concierge works at a famous European hotel and takes a lobby boy under his wing as they become embroiled in the theft of a Renaissance painting. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "language": "hindi",
+    "poster": "Zindagi Na Milegi Dobara.jpeg",
+    "description": "Three friends decide to turn their fantasy vacation into reality on a trip across Spain that leads to love, friendship, and self-discovery. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Karwaan",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "karwaan.jpg",
+    "description": "Two strangers and a girl embark on a road trip with a corpse after a mix-up at the hospital, leading to unexpected connections and life lessons. ★★★½☆ (7.6/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Mahanubhavudu",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "mahanubhavudu.jpg",
+    "description": "A man with OCD falls in love with a village girl and follows her to her hometown, where he must adapt to a completely different lifestyle. ★★★★☆ (7.2/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Sammohanam",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "sammohanam.jpg",
+    "description": "A children's book illustrator who dislikes the film industry falls for an actress who enters his life unexpectedly. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Oh My Kadavule",
+    "year": 2020,
+    "language": "tamil",
+    "poster": "Oh My Kadavule.jpeg",
+    "description": "A man gets a second chance to save his marriage when he discovers it's arranged by God, leading to profound realizations about love. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Kaathale Kaathale",
+    "year": 2021,
+    "language": "tamil",
+    "poster": "Kaathale Kaathale.jpeg",
+    "description": "A feel-good story about love, friendship, and finding purpose in life through unexpected connections and choices. ★★★½☆ (7.0/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Sideways",
+    "year": 2004,
+    "language": "english",
+    "poster": "Sideways.jpeg",
+    "description": "Two friends take a week-long road trip through California wine country before one gets married. This character-driven comedy-drama explores midlife crises with humor and insight. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Midnight in Paris",
+    "year": 2011,
+    "language": "english",
+    "poster": "Midnight in Paris.jpeg",
+    "description": "A screenwriter traveling to Paris with his fiancée finds himself mysteriously going back to the 1920s every night. This whimsical film celebrates art, literature, and finding one's place. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "language": "english",
+    "poster": "Lost in Translation.jpeg",
+    "description": "A faded movie star and a neglected young woman form an unlikely bond after meeting in Tokyo. This atmospheric film explores connection and alienation in a foreign place. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Under the Tuscan Sun",
+    "year": 2003,
+    "language": "english",
+    "poster": "Under the Tuscan Sun.jpeg",
+    "description": "A recently divorced writer buys a villa in Tuscany on a whim, hoping to change her life. This scenic film celebrates new beginnings and finding happiness in unexpected places. ★★★☆☆ (6.7/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Everybody Wants Some!!",
+    "year": 2016,
+    "language": "english",
+    "poster": "Everybody Wants Some.jpeg",
+    "description": "In the days before college begins, a group of baseball players navigate unsupervised adulthood. This nostalgic coming-of-age comedy captures youthful freedom and possibilities. ★★★★☆ (7.0/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Dear Zindagi",
+    "year": 2016,
+    "language": "hindi",
+    "poster": "Dear Zindagi.jpeg",
+    "description": "A promising cinematographer meets an unconventional therapist who helps her gain a new perspective on life. This thoughtful film explores mental health and personal growth. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Wake Up Sid",
+    "year": 2009,
+    "language": "hindi",
+    "poster": "Wake Up Sid.jpeg",
+    "description": "A spoiled, carefree young man discovers purpose and responsibility when he moves in with an aspiring writer. This coming-of-age story celebrates self-discovery and maturity. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Queen",
+    "year": 2014,
+    "language": "hindi",
+    "poster": "Queen.jpeg",
+    "description": "A Delhi girl decides to go on her honeymoon alone after being abandoned by her fiancé. This empowering film shows a woman's journey of self-discovery and independence. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Brochevarevarura",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Brochevarevarura.jpeg",
+    "description": "Three friends help a girl escape from her strict father, leading to unexpected complications. This lighthearted comedy features clever storytelling and charming characters. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Pellichoopulu",
+    "year": 2016,
+    "language": "telugu",
+    "poster": "Pellichoopulu.jpeg",
+    "description": "Two young people with different ambitions meet at a match-making event and find common ground through a business venture. This realistic romantic comedy celebrates entrepreneurship. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Uma Maheswara Ugra Roopasya",
+    "year": 2020,
+    "language": "telugu",
+    "poster": "Uma Maheswara.jpeg",
+    "description": "A gentle photographer embarks on a journey of self-improvement after being humiliated publicly. This remake of the Malayalam film 'Maheshinte Prathikaaram' celebrates personal growth. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Kaithi",
+    "year": 2019,
+    "language": "tamil",
+    "poster": "Kaithi.jpeg",
+    "description": "A released prisoner drives a truck full of poisoned policemen to hospital while being pursued by drug lords. This action thriller unfolds over a single night with mounting tension. ★★★★☆ (8.5/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Vaaranam Aayiram",
+    "year": 2008,
+    "language": "tamil",
+    "poster": "Vaaranam Aayiram.jpeg",
+    "description": "A grieving son recounts the story of his father's life and how it influenced his own journey. This emotional drama explores family bonds, love, and personal growth. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "The Lunchbox",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "The Lunchbox.jpeg",
+    "description": "A mistaken delivery in Mumbai's lunchbox delivery system connects a young housewife to an older man preparing for retirement. This gentle romance unfolds through notes exchanged in lunchboxes. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "Kumbalangi Nights",
+    "year": 2019,
+    "language": "malayalam",
+    "poster": "Kumbalangi Nights.jpeg",
+    "description": "Four dysfunctional brothers who live together in a fishing village navigate their strained relationships. This beautifully shot film explores masculinity and family reconciliation. ★★★★★ (8.6/10 IMDb)",
+    "mood": "relaxed"
+  },
+  {
+    "title": "The Notebook",
+    "year": 2004,
+    "language": "english",
+    "poster": "The Notebook.jpeg",
+    "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are separated by their social differences. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "language": "english",
+    "poster": "La La Land.jpeg",
+    "description": "A jazz pianist falls for an aspiring actress in Los Angeles as they both pursue their dreams in a city known for destroying hopes and breaking hearts. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "language": "english",
+    "poster": "Eternal Sunshine of the Spotless Mind.jpeg",
+    "description": "A couple undergoes a medical procedure to erase each other from their memories when their relationship turns sour, but love is not so easily forgotten. ★★★★★ (8.3/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "language": "english",
+    "poster": "Before Sunrise.jpeg",
+    "description": "A young man and woman meet on a train and spend one night together in Vienna, connecting deeply through conversation and shared experiences. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Jab We Met",
+    "year": 2007,
+    "language": "hindi",
+    "poster": "Jab We Met.jpeg",
+    "description": "A depressed businessman meets a carefree girl who changes his perspective on life, while finding herself and her purpose through their journey together. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "Yeh Jawaani Hai Deewani.jpeg",
+    "description": "A commitment-phobic career woman must choose between her boyfriend and her career, exploring themes of friendship, love, and the courage to follow one's dreams. ★★★★☆ (7.2/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Fidaa",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "fidaa.jpg",
+    "description": "An NRI falls in love with a village belle when he visits India for his brother's wedding, navigating cultural differences and personal aspirations. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Geetha Govindam",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "Geetha Govindam.jpeg",
+    "description": "A young lecturer falls for a girl who mistakes him for a pervert on their first meeting, leading to a series of misunderstandings and eventual reconciliation. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Vinnaithaandi Varuvaayaa",
+    "year": 2010,
+    "language": "tamil",
+    "poster": "Vinnaithaandi Varuvaayaa.jpeg",
+    "description": "An aspiring filmmaker falls in love with a girl who wants to become a dancer, but their different religious backgrounds create obstacles. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "OK Kanmani",
+    "year": 2015,
+    "language": "tamil",
+    "poster": "OK Kanmani.jpeg",
+    "description": "Two young people in a live-in relationship deal with the concept of marriage and commitment in a modern urban context. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "language": "english",
+    "poster": "Pride and Prejudice.jpeg",
+    "description": "The story of Elizabeth Bennet and her complicated relationship with the proud Mr. Darcy. This period romance beautifully adapts Jane Austen's classic novel of manners and misunderstandings. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "language": "english",
+    "poster": "The Fault in Our Stars.jpeg",
+    "description": "Two teenagers with cancer fall in love after meeting at a support group. This poignant love story explores how love flourishes even in the face of mortality. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "year": 2012,
+    "language": "english",
+    "poster": "Silver Linings Playbook.jpeg",
+    "description": "Two people with their own emotional struggles find connection through dance. This unconventional romance offers a sensitive portrayal of mental health and healing through relationships. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "language": "english",
+    "poster": "Notting Hill.jpeg",
+    "description": "A famous American actress falls in love with a humble British bookstore owner. This charming romantic comedy explores the complications of fame and ordinary life. ★★★★☆ (7.2/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "language": "english",
+    "poster": "Her.jpeg",
+    "description": "A lonely writer develops an unlikely relationship with an artificial intelligence operating system. This thought-provoking film explores the nature of love and connection in the digital age. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Aashiqui 2",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "Aashiqui 2.jpeg",
+    "description": "A fading singer helps a talented newcomer find fame while battling his own demons. This passionate love story explores sacrifice and the dark side of success. ★★★★☆ (7.0/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Rehnaa Hai Terre Dil Mein",
+    "year": 2001,
+    "language": "hindi",
+    "poster": "RHTDM.jpeg",
+    "description": "A man impersonates his rival to win a girl's heart but falls truly in love with her. This cult classic romance explores the complications of deceit and genuine feelings. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Barfi!",
+    "year": 2012,
+    "language": "hindi",
+    "poster": "Barfi.jpeg",
+    "description": "A deaf and mute man forms beautiful connections with two women. This heartwarming film shows how love transcends physical limitations with charm and humor. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Majili",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "Majili.jpeg",
+    "description": "A failed cricketer finds redemption through his wife's unconditional love after a heartbreak. This emotional drama explores second chances and healing through love. ★★★★☆ (7.7/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Arjun Reddy",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Arjun Reddy.jpeg",
+    "description": "A brilliant but self-destructive surgeon spirals into addiction after losing the love of his life. This intense romance explores obsession, grief, and redemption. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Ninnu Kori",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Ninnu Kori.jpeg",
+    "description": "A man visits his former lover years after their separation, only to find her happily married. This mature romance explores moving on and finding closure. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "96",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "96.jpeg",
+    "description": "Two high school sweethearts meet at a reunion after 22 years. This nostalgic romance explores the enduring nature of first love and the paths not taken. ★★★★★ (8.6/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Mouna Ragam",
+    "year": 1986,
+    "language": "tamil",
+    "poster": "Mouna Ragam.jpeg",
+    "description": "A woman reluctantly enters an arranged marriage while still mourning her past love. This sensitive drama explores healing and finding love again. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Premam",
+    "year": 2015,
+    "language": "malayalam",
+    "poster": "Premam.jpeg",
+    "description": "A young man's journey through three stages of love at different points in his life. This coming-of-age romance celebrates the evolution of love and personal growth. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Soorarai Pottru",
+    "year": 2020,
+    "language": "tamil",
+    "poster": "Soorarai Pottru.jpeg",
+    "description": "A man from a humble background strives to make air travel affordable for everyone. This inspiring film features a beautiful supportive relationship alongside its main storyline. ★★★★★ (8.7/10 IMDb)",
+    "mood": "romantic"
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "language": "english",
+    "poster": "Get Out.jpeg",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness gives way to a nightmare of racial horror. ★★★★★ (7.7/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "language": "english",
+    "poster": "The Silence of the Lambs.jpeg",
+    "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to catch another serial murderer who skins his victims. ★★★★★ (8.6/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "language": "english",
+    "poster": "hereditary.jpg",
+    "description": "A grieving family is haunted by tragic and disturbing occurrences that begin to unravel the dark secrets of their ancestry. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "language": "english",
+    "poster": "The Shining.jpeg",
+    "description": "A family heads to an isolated hotel for the winter where an evil presence influences the father into violence, while his psychic son sees horrific forebodings. ★★★★★ (8.4/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Stree",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "stree.jpg",
+    "description": "In a small town, an evil spirit abducts men in the night. Based on the urban legend of Nale Ba, this horror-comedy blends scares with social commentary. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Bhoot",
+    "year": 2003,
+    "language": "hindi",
+    "poster": "bhoot.jpg",
+    "description": "A couple moves into a flat that's haunted by a previous tenant's spirit, unleashing a series of supernatural events and revelations. ★★★★☆ (6.7/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Gruham",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "gruham.jpg",
+    "description": "A neurosurgeon's life takes a turn when he has to operate on a young girl with paranormal powers, leading him into a supernatural mystery. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Arundhati",
+    "year": 2009,
+    "language": "telugu",
+    "poster": "arundhati.jpg",
+    "description": "A young woman must embrace her ancestor's powers to defeat an evil sorcerer who has haunted her family for generations. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Pizza",
+    "year": 2012,
+    "language": "tamil",
+    "poster": "pizza.jpg",
+    "description": "A pizza delivery boy gets trapped in a house where he encounters supernatural events and must fight to escape with his life. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Demonte Colony",
+    "year": 2015,
+    "language": "tamil",
+    "poster": "Demonte Colony.jpeg",
+    "description": "Four friends decide to spend a night at a haunted colony and face terrifying consequences as they uncover its dark history. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "language": "english",
+    "poster": "The Exorcist.jpeg",
+    "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her. This landmark horror film explores faith, evil, and maternal love. ★★★★★ (8.0/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "language": "english",
+    "poster": "Alien.jpeg",
+    "description": "The crew of a commercial spacecraft encounter a deadly life form after investigating an unknown transmission. This sci-fi horror masterpiece creates unrelenting tension in confined spaces. ★★★★★ (8.4/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "The Ring",
+    "year": 2002,
+    "language": "english",
+    "poster": "The Ring.jpeg",
+    "description": "A journalist investigates a videotape that seems to cause the death of anyone who watches it. This atmospheric horror film brought Japanese horror sensibilities to American audiences. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "language": "english",
+    "poster": "A Quiet Place.jpeg",
+    "description": "A family must live in silence to avoid mysterious creatures that hunt by sound. This innovative horror film creates tension through silence and explores parental protection. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "The Descent",
+    "year": 2005,
+    "language": "english",
+    "poster": "The Descent.jpeg",
+    "description": "A group of women exploring caves encounter humanoid creatures. This claustrophobic horror film combines physical and psychological terror effectively. ★★★★☆ (7.2/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Bulbbul",
+    "year": 2020,
+    "language": "hindi",
+    "poster": "Bulbbul.jpeg",
+    "description": "A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past. This gothic supernatural film addresses patriarchy through horror elements. ★★★★☆ (6.6/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "13B",
+    "year": 2009,
+    "language": "hindi",
+    "poster": "13B.jpeg",
+    "description": "A family's television starts showing them their future with disturbing outcomes. This psychological horror film uses technology as a gateway to supernatural events. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Ek Thi Daayan",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "Ek Thi Daayan.jpeg",
+    "description": "A magician must confront his past and his fears about witchcraft. This supernatural thriller explores Indian folklore about witches with modern storytelling. ★★★☆☆ (6.0/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Anando Brahma",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "Anando Brahma.jpeg",
+    "description": "Four people stay in a haunted house to disprove its haunting and encounter real ghosts. This horror-comedy reverses expectations by having ghosts afraid of humans. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Bhaagamathie",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "Bhaagamathie.jpeg",
+    "description": "An IAS officer is kept in a haunted house while being interrogated in a corruption case. This supernatural thriller combines political intrigue with horror elements. ★★★★☆ (7.0/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Prema Katha Chitram",
+    "year": 2013,
+    "language": "telugu",
+    "poster": "Prema Katha Chitram.jpeg",
+    "description": "Four friends planning suicide encounter supernatural events in an isolated bungalow. This horror-comedy balances scares with humor effectively. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Eeram",
+    "year": 2009,
+    "language": "tamil",
+    "poster": "Eeram.jpeg",
+    "description": "A police officer investigates his ex-girlfriend's mysterious death in an apartment where water plays a key role in the haunting. This supernatural thriller uses water imagery effectively. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Yaavarum Nalam",
+    "year": 2009,
+    "language": "tamil",
+    "poster": "Yaavarum Nalam.jpeg",
+    "description": "A family moves into a new apartment only to experience strange occurrences through their television. This psychological horror explores technology-based hauntings. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Annabelle",
+    "year": 2014,
+    "language": "english",
+    "poster": "Annabelle.jpeg",
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists. This spinoff explores the origins of the haunted doll. ★★★☆☆ (5.4/10 IMDb)",
+    "mood": "scared"
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "language": "english",
+    "poster": "prisoners.jpg",
+    "description": "When his daughter and her friend go missing, a father takes matters into his own hands as the police pursue multiple leads in a desperate race against time. ★★★★★ (8.1/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "language": "english",
+    "poster": "Gone Girl.jpeg",
+    "description": "With his wife's disappearance becoming the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Nightcrawler",
+    "year": 2014,
+    "language": "english",
+    "poster": "nightcrawler.jpg",
+    "description": "A driven young man stumbles upon the underground world of L.A. freelance crime journalism, blurring the line between observer and participant. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "language": "english",
+    "poster": "Shutter Island.jpeg",
+    "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane, only to uncover shocking truths. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Drishyam",
+    "year": 2015,
+    "language": "hindi",
+    "poster": "drishyam.jpg",
+    "description": "A man goes to extreme lengths to save his family from the dark side of the law after they commit an unexpected crime, using his cinephile knowledge. ★★★★★ (8.2/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Andhadhun",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "andhadhun.jpg",
+    "description": "A series of mysterious events change the life of a blind pianist who now must report a crime that he witnessed, leading to unexpected twists. ★★★★★ (8.2/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Kshanam",
+    "year": 2016,
+    "language": "telugu",
+    "poster": "kshanam.jpg",
+    "description": "A man returns to India to help his ex-girlfriend find her missing daughter, only to discover a complex conspiracy that challenges reality itself. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "HIT The First Case",
+    "year": 2020,
+    "language": "telugu",
+    "poster": "HIT The First Case.jpeg",
+    "description": "A cop with a traumatic past takes on the case of a missing woman while dealing with his own demons, uncovering a web of deceit. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Ratsasan",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "ratsasan.jpg",
+    "description": "A police officer is on the trail of a serial killer who targets schoolgirls, with the case becoming increasingly personal and dangerous. ★★★★★ (8.4/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Visaranai",
+    "year": 2015,
+    "language": "tamil",
+    "poster": "visaranai.jpg",
+    "description": "Four immigrants get wrongfully accused of a crime and become pawns in a game of corruption and power, fighting for justice in a broken system. ★★★★★ (8.4/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "language": "english",
+    "poster": "silence_of_the_lambs.jpg",
+    "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer who skins his victims. ★★★★★ (8.6/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "language": "korean",
+    "poster": "memories_of_murder.jpg",
+    "description": "Two rural South Korean detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit. ★★★★★ (8.1/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "language": "korean",
+    "poster": "oldboy.jpg",
+    "description": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days. ★★★★★ (8.4/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Forgotten",
+    "year": 2017,
+    "language": "korean",
+    "poster": "forgotten.jpg",
+    "description": "When his abducted brother returns seemingly different after 19 days, Jin-seok's suspicions about his family lead him to find dark and shocking truth. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "language": "korean",
+    "poster": "parasite.jpg",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan. ★★★★★ (8.5/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "The Body",
+    "year": 2012,
+    "language": "spanish",
+    "poster": "the_body.jpg",
+    "description": "A detective searches for the body of a femme fatale which has gone missing from a morgue. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Badla",
+    "year": 2019,
+    "language": "hindi",
+    "poster": "badla.jpg",
+    "description": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Ugly",
+    "year": 2013,
+    "language": "hindi",
+    "poster": "ugly.jpg",
+    "description": "The disappearance of a young girl brings together a desperate father, a ruthless ex-husband, and a guilt-ridden cop in this dark psychological thriller. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Evaru",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "evaru.jpg",
+    "description": "A corrupt police officer investigates a case of alleged rape by a respected government official while a mysterious defense attorney manipulates both parties. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Agent Sai Srinivasa Athreya",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "agent_sai.jpg",
+    "description": "A brilliant detective in a small town investigates seemingly simple cases that lead to a complex conspiracy involving multiple deaths. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Kavaludaari",
+    "year": 2019,
+    "language": "kannada",
+    "poster": "kavaludaari.jpg",
+    "description": "A traffic cop's investigation into decades-old skeletal remains leads him into a complex web of corruption and murder. ★★★★☆ (8.4/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Vikram Vedha",
+    "year": 2017,
+    "language": "tamil",
+    "poster": "vikram_vedha.jpg",
+    "description": "A tough police officer sets out to track down and kill an equally tough gangster, but their cat-and-mouse game reveals unexpected moral complexities. ★★★★★ (8.5/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Thadam",
+    "year": 2019,
+    "language": "tamil",
+    "poster": "thadam.jpg",
+    "description": "When a murder occurs, police apprehend a suspect who looks identical to another man, leading to a complex investigation about which one is guilty. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Dhuruvangal Pathinaaru",
+    "year": 2016,
+    "language": "tamil",
+    "poster": "dhuruvangal.jpg",
+    "description": "A retired police officer recounts one of his most difficult cases, involving a series of mysterious events and multiple perspectives. ★★★★☆ (8.5/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "Phoenix Forgotten",
+    "year": 2017,
+    "language": "english",
+    "poster": "phoenix_forgotten.jpg",
+    "description": "Twenty years after three teenagers disappeared in the wake of mysterious lights appearing above Phoenix, Arizona, unseen footage from that night has been discovered. ★★★☆☆ (5.8/10 IMDb)",
+    "mood": "thriller"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "language": "english",
+    "poster": "The Witch.jpeg",
+    "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession, as isolation breeds paranoia and suspicion. ★★★★☆ (6.9/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "It Follows",
+    "year": 2014,
+    "language": "english",
+    "poster": "It Follows.jpeg",
+    "description": "A young woman is followed by an unknown supernatural force after a sexual encounter, creating a haunting metaphor for trauma and mortality. ★★★★☆ (6.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "The Babadook",
+    "year": 2014,
+    "language": "english",
+    "poster": "The Babadook.jpeg",
+    "description": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled 'Mister Babadook' manifests in their home, bringing psychological terror. ★★★★☆ (6.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "language": "english",
+    "poster": "hereditary.jpg",
+    "description": "A grieving family is haunted by tragic and disturbing occurrences following the death of their secretive grandmother, revealing dark ancestral secrets. ★★★★☆ (7.3/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Tumbbad",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "tumbbad.jpg",
+    "description": "A mythological story about a goddess who created the entire universe and a man who built a temple for her, exploring greed and its consequences. ★★★★★ (8.3/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Pari",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "pari.jpg",
+    "description": "A man tries to help a woman who has escaped from a cult that intends to use her to bring back Satan's son, confronting supernatural forces beyond understanding. ★★★★☆ (6.6/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Avunu",
+    "year": 2012,
+    "language": "telugu",
+    "poster": "avunu.jpg",
+    "description": "A newly married couple moves into a house where the wife feels an unseen presence watching her, gradually revealing a sinister entity with dark intentions. ★★★★☆ (7.0/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Raju Gari Gadhi",
+    "year": 2015,
+    "language": "telugu",
+    "poster": "Raju Gari Gadhi.jpeg",
+    "description": "A group of youngsters visits a haunted resort for a reality show and encounters supernatural events that uncover tragic secrets from the past. ★★★☆☆ (6.1/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Maya",
+    "year": 2015,
+    "language": "tamil",
+    "poster": "maya.jpg",
+    "description": "A single mother and aspiring actress is connected to the mysterious deaths at a film studio, drawing her into a supernatural revenge tale. ★★★★☆ (7.2/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Pisaasu",
+    "year": 2014,
+    "language": "tamil",
+    "poster": "pisaasu.jpg",
+    "description": "A man is haunted by the ghost of a woman whose life he failed to save in a road accident, but the spirit's intentions are not what they initially seem. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Midsommar",
+    "year": 2019,
+    "language": "english",
+    "poster": "midsommar.jpg",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled midsummer festival, but what begins as an idyllic retreat quickly devolves into a violent and bizarre competition. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "The Lighthouse",
+    "year": 2019,
+    "language": "english",
+    "poster": "lighthouse.jpg",
+    "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "language": "english",
+    "poster": "get_out.jpg",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness gives way to a chilling discovery. ★★★★★ (7.7/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "language": "english",
+    "poster": "quiet_place.jpg",
+    "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "The Wailing",
+    "year": 2016,
+    "language": "korean",
+    "poster": "wailing.jpg",
+    "description": "A policeman investigating a series of mysterious deaths in a small village becomes drawn into a nightmarish web of supernatural forces. ★★★★★ (7.5/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Train to Busan",
+    "year": 2016,
+    "language": "korean",
+    "poster": "train_to_busan.jpg",
+    "description": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Stree",
+    "year": 2018,
+    "language": "hindi",
+    "poster": "stree.jpg",
+    "description": "In a small town plagued by a mysterious female spirit who abducts men at night, a group of friends confronts their fears and the town's haunted past. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Bhoot: Part One - The Haunted Ship",
+    "year": 2020,
+    "language": "hindi",
+    "poster": "bhoot.jpg",
+    "description": "A man who loses his family in a tragic incident works as a shipping officer on a haunted abandoned ship, uncovering terrifying secrets. ★★★☆☆ (5.5/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Gruham",
+    "year": 2017,
+    "language": "telugu",
+    "poster": "gruham.jpg",
+    "description": "A neurosurgeon's family becomes haunted by a supernatural entity when he investigates the disappearance of his daughter's pet. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Arundhati",
+    "year": 2009,
+    "language": "telugu",
+    "poster": "arundhati.jpg",
+    "description": "A young woman discovers she is the reincarnation of her great-grandmother, and must defeat a powerful sorcerer who has been terrorizing her family for generations. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Pizza",
+    "year": 2012,
+    "language": "tamil",
+    "poster": "pizza.jpg",
+    "description": "A pizza delivery boy lands in a mysterious circumstance and it works a dramatic change in his life. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Yaavarum Nalam",
+    "year": 2009,
+    "language": "tamil",
+    "poster": "yaavarum_nalam.jpg",
+    "description": "A family moves into a new apartment only to be terrorized by mysterious TV signals from their neighbors, revealing a shocking supernatural truth. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Veronica",
+    "year": 2017,
+    "language": "spanish",
+    "poster": "veronica.jpg",
+    "description": "During a solar eclipse, a teenage girl and her friends want to summon the spirit of the girl's father using an Ouija board, but things go terribly wrong. ★★★★☆ (6.2/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "The Orphanage",
+    "year": 2007,
+    "language": "spanish",
+    "poster": "orphanage.jpg",
+    "description": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children, unleashing disturbing spirits from the past. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "The Ritual",
+    "year": 2017,
+    "language": "english",
+    "poster": "ritual.jpg",
+    "description": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them. ★★★★☆ (6.3/10 IMDb)",
+    "mood": "horror"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "language": "english",
+    "poster": "interstellar.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival, confronting time, love, and human connection. ★★★★★ (8.6/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "language": "english",
+    "poster": "inception.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea, exploring reality and consciousness. ★★★★★ (8.8/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Tree of Life",
+    "year": 2011,
+    "language": "english",
+    "poster": "The Tree of Life.jpeg",
+    "description": "The story of a family in Waco, Texas in 1956, exploring the meaning of existence through cosmic images and intimate moments. ★★★★☆ (6.8/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Cloud Atlas",
+    "year": 2012,
+    "language": "english",
+    "poster": "Cloud Atlas.jpeg",
+    "description": "An exploration of how the actions of individual lives impact one another in the past, present and future, connecting souls across time. ★★★★☆ (7.4/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Ship of Theseus",
+    "year": 2012,
+    "language": "hindi",
+    "poster": "Ship of Theseus.jpeg",
+    "description": "Three stories about a photographer, a monk, and a stockbroker that explore identity, justice, beauty, and meaning through philosophical questioning. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Masaan",
+    "year": 2015,
+    "language": "hindi",
+    "poster": "masaan.jpg",
+    "description": "Four lives intersect along the Ganges river: a low-caste boy in a hopeless love, a daughter ridden with guilt, a father with a loss, and a spirited child seeking freedom. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Co Kancharapalem",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "Co Kancharapalem.jpeg",
+    "description": "Four love stories across age groups and how societal pressures and prejudices impact them, set in a small neighborhood with authentic characters. ★★★★★ (8.8/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Rangasthalam",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "rangasthalam.jpg",
+    "description": "A hearing-impaired man confronts a corrupt system in his village, exploring rural politics, family bonds, and personal sacrifice. ★★★★☆ (8.3/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Super Deluxe",
+    "year": 2019,
+    "language": "tamil",
+    "poster": "Super Deluxe.jpeg",
+    "description": "An anthology film exploring the interconnected stories of various characters dealing with morality, identity, and fate through surreal and philosophical lenses. ★★★★★ (8.4/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Aruvi",
+    "year": 2017,
+    "language": "tamil",
+    "poster": "aruvi.jpg",
+    "description": "A social drama about a young woman's journey through societal pressures, consumer culture, and a desire for rebellion, questioning modern values. ★★★★★ (8.6/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "language": "english",
+    "poster": "The Pursuit of Happyness.jpg",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career, showing the power of determination. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Chakdey India",
+    "year": 2023,
+    "language": "hindi",
+    "poster": "Chakdey India.jpeg",
+    "description": "A motivational sports drama about an underdog hockey team overcoming challenges to win the championship, celebrating teamwork and national pride. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Aankhen",
+    "year": 2002,
+    "language": "hindi",
+    "poster": "Aankhen.jpeg",
+    "description": "A blind man seeks revenge against those who wronged him, using three blind men to help him execute his plan in this clever heist thriller. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Koi Mil Gaya",
+    "year": 2003,
+    "language": "hindi",
+    "poster": "Koi Mil Gaya.jpeg",
+    "description": "A developmentally delayed young man encounters an extraterrestrial being who helps him discover his own potential and transcend limitations. ★★★★☆ (7.1/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "language": "english",
+    "poster": "shawshank.jpg",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. ★★★★★ (9.3/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "language": "english",
+    "poster": "eternal_sunshine.jpg",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories. ★★★★★ (8.3/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "language": "english",
+    "poster": "arrival.jpg",
+    "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "language": "english",
+    "poster": "budapest_hotel.jpg",
+    "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Children of Heaven",
+    "year": 1997,
+    "language": "persian",
+    "poster": "children_heaven.jpg",
+    "description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to win a new pair. ★★★★★ (8.3/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Udaan",
+    "year": 2010,
+    "language": "hindi",
+    "poster": "udaan.jpg",
+    "description": "After being expelled from boarding school, a rebellious teenager returns home to a strict father and dreams of becoming a writer. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Gangaajal",
+    "year": 2003,
+    "language": "hindi",
+    "poster": "gangaajal.jpg",
+    "description": "A newly appointed police officer faces corruption and moral dilemmas in a town controlled by goons, questioning the price of justice. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Swades",
+    "year": 2004,
+    "language": "hindi",
+    "poster": "swades.jpg",
+    "description": "A successful NASA scientist returns to his homeland India to retrieve his nanny and ends up modernizing the village and addressing social issues. ★★★★★ (8.2/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Jersey",
+    "year": 2019,
+    "language": "telugu",
+    "poster": "jersey.jpg",
+    "description": "A failed cricketer decides to return to cricket in his late thirties driven by the desire to represent the Indian cricket team and fulfill his son's wish. ★★★★☆ (8.5/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Mahanati",
+    "year": 2018,
+    "language": "telugu",
+    "poster": "mahanati.jpg",
+    "description": "The life story of legendary actress Savitri, showing her rise to stardom and subsequent fall into alcoholism and depression. ★★★★☆ (8.4/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Anbe Sivam",
+    "year": 2003,
+    "language": "tamil",
+    "poster": "anbe_sivam.jpg",
+    "description": "Two men with vastly different ideologies - one a communist, one materialistic - bond during a journey and learn valuable life lessons from each other. ★★★★★ (8.7/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "96",
+    "year": 2018,
+    "language": "tamil",
+    "poster": "96.jpg",
+    "description": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past, exploring what could have been. ★★★★☆ (8.6/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "language": "persian",
+    "poster": "separation.jpg",
+    "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent. ★★★★★ (8.3/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "Life is Beautiful",
+    "year": 1997,
+    "language": "italian",
+    "poster": "life_beautiful.jpg",
+    "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son. ★★★★★ (8.6/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "language": "spanish",
+    "poster": "secret_eyes.jpg",
+    "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "thoughtful"
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "language": "english",
+    "poster": "The Breakfast Club.jpeg",
+    "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought, challenging social stereotypes. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Stand By Me",
+    "year": 1986,
+    "language": "english",
+    "poster": "Stand By Me.jpeg",
+    "description": "After learning of the death of a boy, four friends set out to find his body, experiencing a journey of self-discovery and the poignant end of childhood innocence. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "language": "english",
+    "poster": "Forrest Gump.jpeg",
+    "description": "The story of a man with a low IQ who accomplished great things in his life and was present during significant historic events, touching countless lives with kindness. ★★★★★ (8.8/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "language": "english",
+    "poster": "Dead Poets Society.jpeg",
+    "description": "An English teacher inspires his students through poetry and seizing the day, challenging educational norms and encouraging individual thinking. ★★★★★ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "year": 2001,
+    "language": "hindi",
+    "poster": "Dil Chahta Hai.jpeg",
+    "description": "Three inseparable childhood friends whose friendship is tested after they grow up and follow different paths, capturing a generational shift in modern India. ★★★★★ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Lakshya",
+    "year": 2004,
+    "language": "hindi",
+    "poster": "lakshya.jpg",
+    "description": "An aimless youth finds purpose when he joins the Indian Army and matures into a battlefield hero, discovering his true potential and identity. ★★★★☆ (7.9/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Bommarillu",
+    "year": 2006,
+    "language": "telugu",
+    "poster": "bommarillu.jpg",
+    "description": "A young man struggles to escape his overprotective father and find his own identity, while learning about love and independence. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Godavari",
+    "year": 2006,
+    "language": "telugu",
+    "poster": "godavari.jpg",
+    "description": "A journey along the Godavari river becomes a metaphor for the journey of life for a group of passengers discovering themselves and each other. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Autograph",
+    "year": 2004,
+    "language": "tamil",
+    "poster": "autograph.jpg",
+    "description": "A man revisits his past by inviting all the important people from his life to his wedding, reflecting on the choices and relationships that shaped him. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Vaaranam Aayiram",
+    "year": 2008,
+    "language": "tamil",
+    "poster": "Vaaranam Aayiram.jpeg",
+    "description": "A son reminisces about his father's life and the influence it had on shaping his own journey, celebrating the enduring bond between generations. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "language": "english",
+    "poster": "back_future.jpg",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Doc Brown. ★★★★★ (8.5/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985,
+    "language": "english",
+    "poster": "goonies.jpg",
+    "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "language": "english",
+    "poster": "et.jpg",
+    "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world. ★★★★★ (7.9/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "language": "english",
+    "poster": "princess_bride.jpg",
+    "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles on his quest to be reunited with his true love. ★★★★☆ (8.0/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "language": "english",
+    "poster": "jurassic_park.jpg",
+    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Kuch Kuch Hota Hai",
+    "year": 1998,
+    "language": "hindi",
+    "poster": "kuch_kuch.jpg",
+    "description": "A love triangle forms during college days, then years later a young daughter tries to reunite her widowed father with his college best friend. ★★★★☆ (7.6/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Hum Aapke Hain Koun..!",
+    "year": 1994,
+    "language": "hindi",
+    "poster": "hahk.jpg",
+    "description": "A family celebrates the wedding of a son and the budding romance between two families, celebrating traditional values and relationships. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "language": "hindi",
+    "poster": "ddlj.jpg",
+    "description": "A young man and woman fall in love on a trip to Europe, but she is set to marry someone else upon her return to India, leading to a battle for love against tradition. ★★★★★ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Pokiri",
+    "year": 2006,
+    "language": "telugu",
+    "poster": "pokiri.jpg",
+    "description": "A mysterious man rises in the underworld as a gang leader while an honest cop pursues him, not realizing things are not what they seem. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Happy Days",
+    "year": 2007,
+    "language": "telugu",
+    "poster": "happy_days.jpg",
+    "description": "The joys and struggles of college life are explored through the experiences of a group of engineering students, forming lifelong friendships. ★★★★☆ (8.1/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Tholi Prema",
+    "year": 1998,
+    "language": "telugu",
+    "poster": "tholi_prema.jpg",
+    "description": "A man reminisces about his college days and the girl he fell in love with, showcasing the innocent and emotional journey of first love. ★★★★☆ (8.2/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Chennai 600028",
+    "year": 2007,
+    "language": "tamil",
+    "poster": "chennai600028.jpg",
+    "description": "A story about street cricket in Chennai where local teams compete passionately, forming bonds of friendship and rivalry. ★★★★☆ (7.8/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Kadhalukku Mariyadhai",
+    "year": 1997,
+    "language": "tamil",
+    "poster": "kadhalukku.jpg",
+    "description": "A love story between two college students from different religious backgrounds who face family opposition and societal pressures. ★★★★☆ (7.5/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Amelie",
+    "year": 2001,
+    "language": "french",
+    "poster": "amelie.jpg",
+    "description": "A whimsical romantic comedy about a shy waitress who decides to change the lives of those around her for the better, while struggling with her own isolation. ★★★★★ (8.3/10 IMDb)",
+    "mood": "nostalgic"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "language": "italian",
+    "poster": "cinema_paradiso.jpg",
+    "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist. ★★★★★ (8.5/10 IMDb)",
+    "mood": "nostalgic"
+  }
+]
